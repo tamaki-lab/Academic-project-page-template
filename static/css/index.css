@@ -278,7 +278,7 @@ body {
 .results-carousel .item img,
 .results-carousel video {
   margin: 0;
-  border-radius: var(--border-radius);
+  border-radius: 0;
   width: 100%;
   height: auto;
 }
