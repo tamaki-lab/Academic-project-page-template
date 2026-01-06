@@ -98,6 +98,12 @@ body {
   border-bottom: 1px solid var(--border-color);
 }
 
+.hero.is-gray {
+  background: #f1f1f1;
+  border-top: 1px solid var(--border-color);
+  border-bottom: 1px solid var(--border-color);
+}
+
 .hero-body {
   padding: 5rem 1.5rem 1rem;
 }
