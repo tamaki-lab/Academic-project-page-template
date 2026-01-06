@@ -1,6 +1,6 @@
-# Academic Project Page Template
+# Academic Research Project Page Template
 
-A clean, responsive template for academic project pages.
+A clean, responsive template for academic research project pages.
 
 This template is a modified version of [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template).
 
