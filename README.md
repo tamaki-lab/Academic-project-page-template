@@ -40,6 +40,20 @@ Search "TODO" in `index.html` for editable parts.
 
 When you open the project in VS Code, you'll be prompted to install the recommended extensions (or search @recommended in the Extensions view). Once installed, the code will automatically format on save, keeping your HTML, CSS, and JavaScript code clean and consistent.
 
+### Publish page using GitHub Pages
+Go "Settings" > "Pages"
+
+<img width="800" height="1798" alt="画像3" src="https://github.com/user-attachments/assets/46e2c771-5d8d-4378-8669-80f530e69265" />
+
+On Branch selection, select "none" and save, and then selet "main" and save again. (if the default selected branch is "none", just select "main" and save)
+
+<img width="500" height="2055" alt="画像4" src="https://github.com/user-attachments/assets/2b6cab13-c267-429b-9bea-0aadb4ab7995" />
+
+Wait a while, and you'll see the link of the published page.
+
+<img width="800" height="1981" alt="画像5" src="https://github.com/user-attachments/assets/cf83393e-1d7a-4d7b-b9b5-d9b9a72e5114" />
+
+
 ## What's New
 
 - Modern, clean design with better mobile support
