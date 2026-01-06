@@ -43,7 +43,7 @@ body {
 
 /* Modern Button Styles */
 .button {
-  border-radius: var(--border-radius) !important;
+  border-radius: var(--border-radius);
   font-weight: 600 !important;
   transition: var(--transition) !important;
   border: 2px solid transparent !important;
@@ -101,7 +101,7 @@ body {
 }
 
 .hero-body {
-  padding: 4rem 1.5rem;
+  padding: 5rem 1.5rem 1rem;
 }
 
 .teaser .hero-body {
@@ -148,7 +148,6 @@ body {
 .publication-authors {
   font-family: "Inter", sans-serif !important;
   font-weight: 500;
-  margin-bottom: 1.5rem;
 }
 
 .publication-venue {
