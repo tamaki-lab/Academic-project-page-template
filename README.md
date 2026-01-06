@@ -1,7 +1,5 @@
 # Academic Project Page Template
 
-> **Update (September 2025)**: This template has been modernized with better design, SEO, and mobile support. For the original version, see the [original-version branch](https://github.com/eliahuhorwitz/Academic-project-page-template/tree/original-version).
-
 A clean, responsive template for academic project pages.
 
 Example project pages built using this template are:
@@ -22,7 +20,7 @@ Example project pages built using this template are:
 ## Start using the template
 
 To start using the template click on `Use this Template`.
-<img width="800" height="1713" alt="画像2" src="https://github.com/user-attachments/assets/90fb70fc-3997-472a-8028-d09f634142ec" />
+<img width="800" height="1713" src="https://github.com/user-attachments/assets/90fb70fc-3997-472a-8028-d09f634142ec" />
 
 
 The template uses html for controlling the content and css for controlling the style.
@@ -43,15 +41,19 @@ When you open the project in VS Code, you'll be prompted to install the recommen
 ### Publish page using GitHub Pages
 Go "Settings" > "Pages"
 
-<img width="800" height="1798" alt="画像3" src="https://github.com/user-attachments/assets/46e2c771-5d8d-4378-8669-80f530e69265" />
+<img width="800" height="1806" src="https://github.com/user-attachments/assets/282911aa-4a49-4d0d-b041-9df938a093f4" />
 
-On Branch selection, select "none" and save, and then selet "main" and save again. (if the default selected branch is "none", just select "main" and save)
+On Branch selection, select "none" and save, then selet "main" and save again. (if the default selected branch is "none", just select "main" and save)
 
-<img width="500" height="2055" alt="画像4" src="https://github.com/user-attachments/assets/2b6cab13-c267-429b-9bea-0aadb4ab7995" />
+<img width="500" height="2063" src="https://github.com/user-attachments/assets/7fd8fffc-955c-476b-9a8d-a670594f6dd1" />
 
 Wait a while, and you'll see the link of the published page.
 
-<img width="800" height="1981" alt="画像5" src="https://github.com/user-attachments/assets/cf83393e-1d7a-4d7b-b9b5-d9b9a72e5114" />
+<img width="800" height="1989" src="https://github.com/user-attachments/assets/f06c2238-1c0f-4ea2-ba5e-b9c658384eb4" />
+
+Also, don't forget to show the published link in the repo description. Select "Use your GitHub Pages website" to put the GitHub Pages link automatically.
+
+<img width="800" height="1961" src="https://github.com/user-attachments/assets/2444d2c8-b7b1-4da3-9e9f-c1811e5a33d1" />
 
 Reference
 - [Github Pagesの使い方まとめ | Qiita](https://qiita.com/snow_swallow/items/631bbceabbb953da2646)
@@ -104,8 +106,7 @@ Create a 1200x630px social preview image at `static/images/social_preview.png`.
 - Works with GitHub Pages
 
 ## Acknowledgments
-
-Parts of this project page were adopted from the [Nerfies](https://nerfies.github.io/) page.
+This template uses a modified version of [Academic Project Page Template by Eliahu Horwitz](https://github.com/eliahuhorwitz/Academic-project-page-template).
 
 ## Website License
 
